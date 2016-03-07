@@ -1,0 +1,5 @@
+dist/
+mocha/sources.js
+mocha/tests.js
+node_modules/
+*.log
